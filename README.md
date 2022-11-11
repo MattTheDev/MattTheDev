@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://gpvc.arturio.dev/MattTheDev" alt="profile views" /> ◘
-  <a href="https://twitter.com/intent/follow?screen_name=MattTheDev&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/MattTheDev?label=%40MattTheDev&style=social"></a> ◘
+  <a rel="me" href="https://fosstodon.org/@MattTheDev"><img alt="Mastodon Follow" src="https://img.shields.io/mastodon/follow/109308360294311970?domain=https%3A%2F%2Ffosstodon.org&style=social"></a> ◘
   <a href="https://discord.couch.bot"><img src="https://img.shields.io/discord/263688866978988032.svg?color=7289da&label=CouchBot&logo=discord&style=flat-square" alt="discord server" /></a>
 </p>
 
